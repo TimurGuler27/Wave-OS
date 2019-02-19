@@ -1,0 +1,117 @@
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\gulertimur27\Documents\Visual Studio 2012\Projects\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+D:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+D:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+D:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+D:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Welcome.resources
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Home.resources
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.LitniFind.resources
+C:\Users\M27Dragon\Desktop\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Filesystem.resources
+E:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+E:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+E:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+E:\Wave OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Welcome.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Login.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Home.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.LitniFind.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Filesystem.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+E:\Wave OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Welcome.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Login.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Home.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.LitniFind.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Filesystem.resources
+D:\Wave OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.AppList.resources
+D:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+D:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+D:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+D:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Welcome.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Login.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Home.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Filesystem.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.AppList.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+D:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.LitniFindB.resources
+E:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+E:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+E:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+E:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Welcome.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Login.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Home.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.LitniFindB.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Filesystem.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.AppList.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+D:\VB Projects\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+D:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+D:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+D:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe.config
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.exe
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.xml
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.pdb
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.exe
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.pdb
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\bin\Debug\Wave OS 0.05.xml
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbprojResolveAssemblyReference.cache
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Welcome.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Login.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Home.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form4.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.LitniFindB.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Filesystem.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.AppList.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form8.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Resources.resources
+E:\VB Projects\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbproj.GenerateResource.Cache
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\Wave OS 0.05.vbprojResolveAssemblyReference.cache
+E:\Doc OS 0.05\Wave OS 0.05\obj\Debug\WindowsApplication1.Form8.resources
+E:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Doc OS 0.05\Wave OS 0.05\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
